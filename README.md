@@ -1,2 +1,2 @@
 # ExtendedObservableCollection
-Obserable Collections Extended
+Observable Collections Extended
